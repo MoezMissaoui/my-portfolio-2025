@@ -1,4 +1,4 @@
-# my-portfolio-2025
+# My Portfolio 2025
 
 ## Description
 Ce projet est un portfolio personnel pour présenter vos compétences, réalisations et expériences professionnelles en 2025.
