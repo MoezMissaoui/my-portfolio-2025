@@ -205,7 +205,7 @@
                 </div>
                 <div class="flex flex-col sm:flex-row justify-center items-center space-y-4 sm:space-y-0 sm:space-x-6 mb-10 animate-slide-up">
                     <a href="https://www.linkedin.com/in/moez-missaoui/" target="_blank" rel="noopener noreferrer" 
-                       class="glass-effect text-white px-8 py-4 rounded-xl hover:bg-white hover:text-primary transition-all duration-300 flex items-center transform hover:scale-105 shadow-lg">
+                       class="glass-effect text-white px-8 py-4 rounded-xl transition-all duration-300 flex items-center transform hover:scale-105 shadow-lg">
                         <i class="fab fa-linkedin mr-3 text-xl"></i> 
                         <span class="font-semibold">LinkedIn</span>
                     </a>
